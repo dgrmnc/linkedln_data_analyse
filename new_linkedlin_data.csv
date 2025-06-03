@@ -1,0 +1,619 @@
+id,title,company,location,Year,Month,Day,country,location_only,title_cleaned
+1,Data Analyst,Meta,"New York, NY",2025,4,14,United States,New York,Data Analyst
+2,Data Analyst,Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Analyst
+3,Data Analyst,Meta,"Los Angeles, CA",2025,4,14,United States,Los Angeles,Data Analyst
+4,Data Analyst,Meta,"Washington, DC",2025,4,14,United States,Washington,Data Analyst
+5,Data Analyst II,Pinterest,"Chicago, IL",2025,4,16,United States,Chicago,Data Analyst II
+6,Data Analyst,FanDuel,"New York, NY",2025,4,11,United States,New York,Data Analyst
+7,"Data Analyst, Production Finance Operations & Innovation",Netflix,"Los Angeles, CA",2025,4,10,United States,Los Angeles,Data Analyst
+8,Data Analyst - Marketing,FanDuel,"New York, NY",2025,4,13,United States,New York,Data Analyst
+9,Data Analyst,SBH Fashion,"New York, NY",2025,4,12,United States,New York,Data Analyst
+14,Data Analyst II,Pinterest,"New York, NY",2025,4,16,United States,New York,Data Analyst II
+15,Data Analyst II,Pinterest,"San Francisco, CA",2025,4,16,United States,San Francisco,Data Analyst II
+16,"Data Analyst, Global Partnerships & Content",Meta,"New York, NY",2025,4,14,United States,New York,Data Analyst
+29,Data Analyst,FanDuel,"Atlanta, GA",2025,4,11,United States,Atlanta,Data Analyst
+30,Data Analyst,FinThrive,United States,2025,4,15,United States,United States,Data Analyst
+31,Senior Data Analyst,alice + olivia,"New York, NY",2025,4,15,United States,New York,Senior Data Analyst
+32,"Data Products Analyst, YouTube",Google,"New York, NY",2025,4,14,United States,New York,Data Products Analyst
+34,Customer Relationship Management Analyst,Bvlgari,New York City,2025,4,11,United States,New York City,Customer Relationship Management Analyst
+35,"Data Analyst - SQL, ERP",CyberCoders,"Yakima, WA",2025,4,15,United States,Yakima,Data Analyst
+54,Marketing Data Analyst,TechHuman,United States,2025,4,11,United States,United States,Marketing Data Analyst
+55,Data Analyst,Hamilton Porter,"New York, NY",2025,4,16,United States,New York,Data Analyst
+56,Analytics Associate,Brooklinen,"Brooklyn, NY",2025,4,10,United States,Brooklyn,Analytics Associate
+57,Data Analyst I,Equip,United States,2025,4,16,United States,United States,Data Analyst I
+58,Data Analyst,Toyota North America,"Plano, TX",2025,4,15,United States,Plano,Data Analyst
+59,"Data & Analytics, Analyst",TikTok,"Los Angeles, CA",2025,4,16,United States,Los Angeles,Data & Analytics
+60,Junior Data Analyst - Remote,Lensa,United States,2025,4,16,United States,United States,Junior Data Analyst
+61,"Data Products Analyst, YouTube",Google,"Los Angeles, CA",2025,4,14,United States,Los Angeles,Data Products Analyst
+62,"Data Products Analyst, YouTube",Google,"Mountain View, CA",2025,4,14,United States,Mountain View,Data Products Analyst
+63,"Data Products Analyst, YouTube",Google,"San Bruno, CA",2025,4,14,United States,San Bruno,Data Products Analyst
+64,Data Analyst,Sony,"Culver City, CA",2025,4,17,United States,Culver City,Data Analyst
+65,People Data Analyst,CAVA,Washington DC,2025,4,16,United States,Washington DC,People Data Analyst
+66,Customer Insights Analyst,Nextdoor,"New York, NY",2025,4,15,United States,New York,Customer Insights Analyst
+67,Data Analyst,Salt,United States,2025,4,15,United States,United States,Data Analyst
+68,Data Analyst,InterEx Group,United States,2025,4,14,United States,United States,Data Analyst
+69,Data Analyst I,Colibri Group,United States,2025,4,11,United States,United States,Data Analyst I
+70,Data Analyst Intern (Fall start),AARP,"Washington, DC",2025,4,10,United States,Washington,Data Analyst Intern
+71,"Analyst, Data Science, RMBS",Cerberus Capital Management,"New York, NY",2025,4,10,United States,New York,Analyst
+72,Data Analyst,Webologix Ltd/ INC,United States,2025,4,10,United States,United States,Data Analyst
+73,Data Analyst,iSpot,United States,2025,4,10,United States,United States,Data Analyst
+74,Analyst,NielsenIQ,"New York, NY",2025,4,14,United States,New York,Analyst
+75,Data Analyst,RYZE,United States,2025,4,16,United States,United States,Data Analyst
+76,Data Analyst,DHL Express,"Plantation, FL",2025,4,16,United States,Plantation,Data Analyst
+77,Business Data Analyst,LTIMindtree,"Jersey City, NJ",2025,4,10,United States,Jersey City,Business Data Analyst
+78,Junior Data Analyst,CGI,"Arlington, VA",2025,4,15,United States,Arlington,Junior Data Analyst
+79,Data Analyst,Mastech Digital,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Analyst
+80,Healthcare Data Analyst I - Remote,TieTalent,"California, United States",2025,4,16,United States,California,Healthcare Data Analyst I
+81,Data Analyst - 100% Remote,Lensa,"Jacksonville, FL",2025,4,16,United States,Jacksonville,Data Analyst
+82,Data Analyst,Equiliem,"Lexington, MA",2025,4,16,United States,Lexington,Data Analyst
+83,Data Analyst,AARATECH,New York City,2025,4,14,United States,New York City,Data Analyst
+84,Data Analyst,Keurig Dr Pepper Inc.,"Frisco, TX",2025,4,16,United States,Frisco,Data Analyst
+85,Insights Analyst,Spectrum,"Stamford, CT",2025,4,15,United States,Stamford,Insights Analyst
+86,Sr. Data Analyst,Rivian,"Palo Alto, CA",2025,4,10,United States,Palo Alto,Sr. Data Analyst
+87,Data Analyst,Consulting Point,United States,2025,4,15,United States,United States,Data Analyst
+88,Sr. Data Analyst,Stefanini North America and APAC,United States,2025,4,10,United States,United States,Sr. Data Analyst
+89,Data Analyst,Ignite Digital Services,"San Diego, CA",2025,4,10,United States,San Diego,Data Analyst
+90,Data Analyst Contractor,Instacart,United States,2025,4,15,United States,United States,Data Analyst Contractor
+91,Data Analyst,ExxonMobil,"Houston, TX",2025,4,17,United States,Houston,Data Analyst
+92,Data Analyst,Ascendum Solutions,"Irvine, CA",2025,4,14,United States,Irvine,Data Analyst
+93,"Analyst, Data Analytics & Intelligence",Publicis Digital Experience,"New York, NY",2025,4,10,United States,New York,Analyst
+94,Analista de Dados Junior - São Paulo/SP,Shopee,"São Paulo, São Paulo, Brazil",2025,4,16,Brazil,São Paulo,Analista de Dados Junior
+95,Data Analyst,LTIMindtree,"Bangalore Rural, Karnataka, India",2025,4,15,India,Bangalore Rural,Data Analyst
+96,"Data Platform Analyst, Subscriptions",Roku,"Bengaluru, Karnataka, India",2025,4,15,India,Bengaluru,Data Platform Analyst
+98,Junior Data Analyst,Pion,"London, England, United Kingdom",2025,4,16,United Kingdom,London,Junior Data Analyst
+100,Data Analyst,Aston Martin F1 Team,"Silverstone, England, United Kingdom",2025,4,15,United Kingdom,Silverstone,Data Analyst
+103,Healthcare Data Analyst,Infosys,"Bengaluru East, Karnataka, India",2025,4,16,India,Bengaluru East,Healthcare Data Analyst
+108,Junior Data Analyst UK&I,Experian,"Sofia, Sofia City, Bulgaria",2025,4,15,Bulgaria,Sofia,Junior Data Analyst UK&I
+109,Data Analyst,HCLTech,"Bengaluru, Karnataka, India",2025,4,16,India,Bengaluru,Data Analyst
+110,Data Analyst,PT Indofood CBP Sukses Makmur Tbk - Noodle Division,"Jakarta, Jakarta, Indonesia",2025,4,16,Indonesia,Jakarta,Data Analyst
+111,Data Analyst,Explore Group,"London , United Kingdom",2025,4,15,United Kingdom,London ,Data Analyst
+112,Data Analyst,PT Indofood CBP Sukses Makmur Tbk - Noodle Division,"Jakarta, Jakarta, Indonesia",2025,4,16,Indonesia,Jakarta,Data Analyst
+113,"Lead Data Analyst (Power BI,SQL)",Target,"Bengaluru, Karnataka, India",2025,4,16,India,Bengaluru,Lead Data Analyst
+115,Data Analyst,AKT London,"London, England, United Kingdom",2025,4,15,United Kingdom,London,Data Analyst
+116,Officer - Real Time Analytics,Almosafer,"Riyadh, Saudi Arabia",2025,4,16,Saudi Arabia,Riyadh,Officer
+117,Data Analyst,Adecco,Bengaluru,2025,4,15,India,Bengaluru,Data Analyst
+118,Data Analyst,StatusNeo,India,2025,4,15,India,India,Data Analyst
+120,ANALISTA GESTAO DE INDICADORES PL,Camil Alimentos S/A,"São Paulo, São Paulo, Brazil",2025,4,15,Brazil,São Paulo,ANALISTA GESTAO DE INDICADORES PL
+121,Data Analyst,Tata Consultancy Services,"Mississauga, Ontario, Canada",2025,4,15,Canada,Mississauga,Data Analyst
+122,Data Analyst,TLP Consultancy Ltd,"Great Burgh, England, United Kingdom",2025,4,16,United Kingdom,Great Burgh,Data Analyst
+125,Data Analyst,Lorien,"London , United Kingdom",2025,4,16,United Kingdom,London ,Data Analyst
+127,DATA ANALYST I,Inter,"Belo Horizonte, Minas Gerais, Brazil",2025,4,15,Brazil,Belo Horizonte,DATA ANALYST I
+128,Data Analyst,Explore Group,"London , United Kingdom",2025,4,16,United Kingdom,London ,Data Analyst
+130,Data Analytics,EY,"Gurugram, Haryana, India",2025,4,15,India,Gurugram,Data Analytics
+131,Analista de Dados Júnior | Data Viz,americanas s.a.,Rio de Janeiro,2025,4,15,Brazil,Rio de Janeiro,Analista de Dados Júnior
+134,Data Analytics,EY,"Bengaluru, Karnataka, India",2025,4,15,India,Bengaluru,Data Analytics
+135,Analyst-Data Science,American Express,"Gurugram, Haryana, India",2025,4,15,India,Gurugram,Analyst
+136,"Analyst, Data Science",Toyota North America,"Plano, TX",2025,4,15,United States,Plano,Analyst
+137,Data Analyst,Kforce Inc,"Boston, MA",2025,4,15,United States,Boston,Data Analyst
+138,Data Analyst Intern,SiteZeus,"Tampa, FL",2025,4,16,United States,Tampa,Data Analyst Intern
+139,Business Data Analyst,Birlasoft,"London , United Kingdom",2025,4,15,United Kingdom,London ,Business Data Analyst
+140,Data Analyst,Eviden,United Kingdom,2025,4,15,United Kingdom,United Kingdom,Data Analyst
+141,Analista de Dados Júnior,Cogna Educação,Brazil,2025,4,15,Brazil,Brazil,Analista de Dados Júnior
+142,Data Analyst,AARATECH,"California, United States",2025,4,16,United States,California,Data Analyst
+143,Data Analyst,Bright Purple,"Dundee, Scotland, United Kingdom",2025,4,16,United Kingdom,Dundee,Data Analyst
+144,Business Data Analyst,Toyota Financial Services (UK) PLC,"Epsom, England, United Kingdom",2025,4,15,United Kingdom,Epsom,Business Data Analyst
+145,Data Analyst,Searchability®,"Nottingham, England, United Kingdom",2025,4,16,United Kingdom,Nottingham,Data Analyst
+146,Sr Data Analyst,The Walt Disney Company,"New York, NY",2025,4,15,United States,New York,Sr Data Analyst
+147,Data Analyst (Data Visualization),Haybury,"Barcelona, Catalonia, Spain",2025,4,15,Spain,Barcelona,Data Analyst
+148,Data Analyst,Etiqa Insurance Singapore,"Singapore, Singapore",2025,4,17,Singapore,Singapore,Data Analyst
+149,Data Analyst,Redwood Materials,"Nevada, United States",2025,4,15,United States,Nevada,Data Analyst
+150,Analista de Business Intelligence Júnior,iFood,"Osasco, São Paulo, Brazil",2025,4,15,Brazil,Osasco,Analista de Business Intelligence Júnior
+151,Data Associate - Gurgaon,Circles,"Gurgaon, Haryana, India",2025,4,16,India,Gurgaon,Data Associate
+152,Healthcare Data Analyst,Sogeti,Minneapolis,2025,4,15,US,Minneapolis,Healthcare Data Analyst
+214,Data Analyst,Artefact,"New York, NY",2025,4,17,United States,New York,Data Analyst
+235,Data Analyst,TEKsystems,"Santa Clara, CA",2025,4,17,United States,Santa Clara,Data Analyst
+241,Data Analyst - Local to Pittsburgh or Cleveland,CGI,"Pittsburgh, PA",2025,4,11,United States,Pittsburgh,Data Analyst
+242,Analista de Análise de Dados Junior,C6 Bank,"São Paulo, São Paulo, Brazil",2025,4,15,Brazil,São Paulo,Analista de Análise de Dados Junior
+256,Data Analyst,Stok,"Toronto, Ontario, Canada",2025,4,15,Canada,Toronto,Data Analyst
+267,Senior Data Analyst,Asana,"Warsaw, Mazowieckie, Poland",2025,4,15,Poland,Warsaw,Senior Data Analyst
+282,Data analyst,Aer Lingus,"Dublin, County Dublin, Ireland",2025,4,17,Ireland,Dublin,Data analyst
+284,Data Intern,Doing Things,"New York, NY",2025,4,14,United States,New York,Data Intern
+286,Data Analyst,Redwood Materials,"San Francisco, CA",2025,4,16,United States,San Francisco,Data Analyst
+294,Data Analyst I,Aditi Consulting,"Lincolnshire, IL",2025,4,16,United States,Lincolnshire,Data Analyst I
+297,Data Analyst,Hanson Lee,"London , United Kingdom",2025,4,16,United Kingdom,London ,Data Analyst
+298,Jr. Data & BI Analyst,A Place for Mom,"New York, NY",2025,4,15,United States,New York,Jr. Data & BI Analyst
+299,Data Analyst,Amplytics,San Francisco Bay,2025,4,17,United States,San Francisco Bay,Data Analyst
+300,Data Analyst,ShimentoX,United States,2025,4,15,United States,United States,Data Analyst
+301,Data Analyst,Simera,United States,2025,4,16,United States,United States,Data Analyst
+377,"Data Scientist, Product Analytics",Meta,"Seattle, WA",2025,4,14,United States,Seattle,Data Scientist
+378,"Data Scientist, Product, Sustainability",Google,"Mountain View, CA",2025,4,15,United States,Mountain View,Data Scientist
+379,"Data Scientist, Product Analytics",Meta,"Seattle, WA",2025,4,14,United States,Seattle,Data Scientist
+380,"Data Scientist, Product Analytics",Meta,United States,2025,4,14,United States,United States,Data Scientist
+381,Fraud Data Scientist,ID.me,"Mountain View, CA",2025,4,16,United States,Mountain View,Fraud Data Scientist
+382,"Data Scientist, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Scientist
+383,Senior Data Scientist,Roku,"Austin, TX",2025,4,11,United States,Austin,Senior Data Scientist
+384,Senior Data Scientist,Roku,"Santa Monica, CA",2025,4,11,United States,Santa Monica,Senior Data Scientist
+385,Data Scientist,Paramount,"New York, NY",2025,4,11,United States,New York,Data Scientist
+386,Machine Learning Engineer (L5) - Content & Media ML Foundations,Netflix,United States,2025,4,11,United States,United States,Machine Learning Engineer
+387,Data Scientist - Last Mile,Veho,United States,2025,4,15,United States,United States,Data Scientist
+388,"Partner Data Scientist, Growth Partnerships",Meta,"New York, NY",2025,4,14,United States,New York,Partner Data Scientist
+389,Data Scientist,Elder Research,"Arlington, VA",2025,4,14,United States,Arlington,Data Scientist
+390,Jr. Data Scientist,Matlen Silver,United States,2025,4,16,United States,United States,Jr. Data Scientist
+391,"Data Scientist, Product Analytics",Meta,"Burlingame, CA",2025,4,14,United States,Burlingame,Data Scientist
+392,"Data Scientist, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Scientist
+393,Data Scientist,Disney Entertainment,"California, United States",2025,4,16,United States,California,Data Scientist
+394,"Data Scientist, Marketing Science",TikTok,"New York, United States",2025,4,10,United States,New York,Data Scientist
+395,"Data Scientist, Product Analytics",Meta,"Bellevue, WA",2025,4,14,United States,Bellevue,Data Scientist
+396,AI/ML Engineer,ConglomerateIT,"Dallas, TX",2025,4,14,United States,Dallas,AI/ML Engineer
+397,Data Scientist- Customer Lifecycle and Engagement,Robinhood,"New York, NY",2025,4,17,United States,New York,Data Scientist
+398,Data Scientist,Meta,"Bellevue, WA",2025,4,14,United States,Bellevue,Data Scientist
+399,Cientista de Dados II - Área Prevenção a Fraudes,Itaú Unibanco,"São Paulo, São Paulo, Brazil",2025,4,16,Brazil,São Paulo,Cientista de Dados II
+400,Data Scientist,Raspberry Pi Foundation,"Cambridge, England, United Kingdom",2025,4,15,United Kingdom,Cambridge,Data Scientist
+401,Graduate Data Scientist,Zazzle,"Cork, County Cork, Ireland",2025,4,15,Ireland,Cork,Graduate Data Scientist
+402,Data Scientist,DoorDash,"New York, United States",2025,4,15,United States,New York,Data Scientist
+403,"Staff Data Scientist, Strategy & Insights",LinkedIn,"Sunnyvale, CA",2025,4,17,United States,Sunnyvale,Staff Data Scientist
+404,Data Scientist I,Pinterest,United States,2025,4,16,United States,United States,Data Scientist I
+405,Data Scientist,NielsenIQ,Lisbon,2025,4,14,Portugal,Lisbon,Data Scientist
+406,Data Scientist/Analyst,Sony Interactive Entertainment,"Dublin, County Dublin, Ireland",2025,4,17,Ireland,Dublin,Data Scientist/Analyst
+407,GEN AI/ML,technology,"Bengaluru, Karnataka, India",2025,4,16,India,Bengaluru,GEN AI/ML
+408,Data Scientist,EXL,"Gurugram, Haryana, India",2025,4,16,India,Gurugram,Data Scientist
+409,Data Scientist,CalypsoAI,"Dublin, County Dublin, Ireland",2025,4,15,Ireland,Dublin,Data Scientist
+410,Data Scientist,OCBC Indonesia,"Tangerang, Banten, Indonesia",2025,4,16,Indonesia,Tangerang,Data Scientist
+411,"Data Scientist, Fundamental Sector Data",CPP Investments | Investissements RPC,"New York, NY",2025,4,15,United States,New York,Data Scientist
+412,"Machine Learning Engineer (Berlin, Germany)",Enjins,"Berlin, Berlin, Germany",2025,4,14,Germany,Berlin,Machine Learning Engineer
+413,Data Scientist,Mercedes-Benz Malaysia,"Puchong, Selangor, Malaysia",2025,4,16,Malaysia,Puchong,Data Scientist
+414,Data Scientist (L5) - App QoE,Netflix,United States,2025,4,17,United States,United States,Data Scientist
+415,Data Scientist I,Pinterest,"San Francisco, CA",2025,4,16,United States,San Francisco,Data Scientist I
+416,Data Scientist (Business Operations),Wolt,"Athens, Attiki, Greece",2025,4,14,Greece,Athens,Data Scientist
+417,Junior Artificial Intelligence (AI) / Machine Learning (ML) Engineer,PingWind Inc. (SDVOSB),Washington DC,2025,4,16,United States,Washington DC,Junior Artificial Intelligence
+418,Junior Frontend Developer,Coca-Cola HBC,"Cairo, Egypt",2025,4,16,Egypt,Cairo,Junior Frontend Developer
+420,"Data Scientist, Product, Sustainability",Google,"San Francisco, CA",2025,4,15,United States,San Francisco,Data Scientist
+421,"Data Scientist, Product Analytics",Meta,"Chicago, IL",2025,4,16,United States,Chicago,Data Scientist
+422,Data Scientist (Climate & Geospatial),PureFuel,"London , United Kingdom",2025,4,14,United Kingdom,London ,Data Scientist
+423,Data Scientist Jr.,Kantar,"Mexico City, Mexico",2025,4,14,Mexico,Mexico City,Data Scientist Jr.
+424,Data Scientist,Largeton Group,"Sunnyvale, CA",2025,4,15,United States,Sunnyvale,Data Scientist
+425,Cientista de Dados - Estágio,SMi Engineering,"Santo André, São Paulo, Brazil",2025,4,15,Brazil,Santo André,Cientista de Dados
+426,Machine Learning Engineer,Capgemini,Bengaluru,2025,4,16,India,Bengaluru,Machine Learning Engineer
+427,Data Scientist (Entry Level),Network Recruitment,"City of Johannesburg, Gauteng, South Africa",2025,4,15,South Africa,City of Johannesburg,Data Scientist
+428,Data Scientist,BBC,"London, England, United Kingdom",2025,4,15,United Kingdom,London,Data Scientist
+429,Machine Learning Engineer,Recro,"Bengaluru, Karnataka, India",2025,4,17,India,Bengaluru,Machine Learning Engineer
+430,Product Data Scientist,Checkout.com,"London, England, United Kingdom",2025,4,15,United Kingdom,London,Product Data Scientist
+431,Data Scientist,Capgemini Engineering,Canada,2025,4,17,Canada,Canada,Data Scientist
+432,Data Scientist,Immersum,"London , United Kingdom",2025,4,14,United Kingdom,London ,Data Scientist
+433,Machine Learning Engineer,Infosys,"Bengaluru, Karnataka, India",2025,4,15,India,Bengaluru,Machine Learning Engineer
+434,Research And Development Scientist,i-Pharm Consulting,"Slough, England, United Kingdom",2025,4,15,United Kingdom,Slough,Research And Development Scientist
+435,Data Scientist Senior - MLOps & Transformation (F/H),Renault Digital,"BoulogneBillancourt, ÎledeFrance, France",2025,4,17,France,BoulogneBillancourt,Data Scientist Senior
+437,Machine Learning Engineer,Jex - Recruitment for scaling businesses,"Dubai, United Arab Emirates",2025,4,17,United Arab Emirates,Dubai,Machine Learning Engineer
+439,Data Scientist,Jubilant FoodWorks Ltd.,"Noida, Uttar Pradesh, India",2025,4,16,India,Noida,Data Scientist
+440,Junior Data Scientist,Discovery Limited,"Gauteng, South Africa",2025,4,17,South Africa,Gauteng,Junior Data Scientist
+441,Data Scientist-1,FNB South Africa,"Johannesburg, Gauteng, South Africa",2025,4,15,South Africa,Johannesburg,Data Scientist
+442,Data Scientist,Astria Digital,"Bengaluru, Karnataka, India",2025,4,16,India,Bengaluru,Data Scientist
+443,Data Scientist,Sigma Suisse,"Geneva, Switzerland",2025,4,16,Switzerland,Geneva,Data Scientist
+444,Data Scientist Strategy & Value Creation Consulting,KPMG España,"Madrid, Community of Madrid, Spain",2025,4,15,Spain,Madrid,Data Scientist Strategy & Value Creation Consulting
+445,Data Scientist (m/f/d),roadsurfer,Spain,2025,4,16,Spain,Spain,Data Scientist
+446,Machine Learning Engineer,Circana,Greece,2025,4,16,Greece,Greece,Machine Learning Engineer
+447,Data Scientist (AI/ML),Collabera,"Toronto, Ontario, Canada",2025,4,16,Canada,Toronto,Data Scientist
+448,Data Scientist/Sr Data Scientist,American Airlines,"Dallas, TX",2025,4,15,United States,Dallas,Data Scientist/Sr Data Scientist
+449,Machine Learning Engineer (Junior),LogicMatrix,"Florida, United States",2025,4,17,United States,Florida,Machine Learning Engineer
+450,Machine Learning Engineer,Neotalent Conclusion,Lisbon,2025,4,15,Portugal,Lisbon,Machine Learning Engineer
+451,AI/ML Developer,SWITS DIGITAL Private Limited,India,2025,4,17,India,India,AI/ML Developer
+452,Machine Learning Engineer,Neotalent Conclusion,Porto,2025,4,15,Portugal,Porto,Machine Learning Engineer
+453,AI/ML Researcher,Seer,San Francisco Bay,2025,4,16,United States,San Francisco Bay,AI/ML Researcher
+454,Data Scientist,Aditi Consulting,"California, United States",2025,4,10,United States,California,Data Scientist
+455,Data Scientist,Camping World,Chicago,2025,4,16,United States,Chicago,Data Scientist
+456,Data Scientist,Krungthai Bank,Bangkok,2025,4,16,Thailand,Bangkok,Data Scientist
+457,Machine Learning Engineer,CXC,"London , United Kingdom",2025,4,17,United Kingdom,London ,Machine Learning Engineer
+458,"Data Scientist, Consumer Research & Marketing",Handshake,"San Francisco, CA",2025,4,13,United States,San Francisco,Data Scientist
+459,"Data Scientist, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Scientist
+460,"Data Scientist, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Scientist
+461,"Data Scientist, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Scientist
+462,"Data Scientist, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Scientist
+463,"Data Scientist, Marketing",Wealthfront,"Palo Alto, CA",2025,4,11,United States,Palo Alto,Data Scientist
+464,"Data Scientist, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Scientist
+465,Machine Learning Engineer,Netflix,United States,2025,4,17,United States,United States,Machine Learning Engineer
+467,"Data Scientist, Product Analytics",Meta,"Sunnyvale, CA",2025,4,14,United States,Sunnyvale,Data Scientist
+469,Data Scientist,Meta,"Fremont, CA",2025,4,14,United States,Fremont,Data Scientist
+470,"Data Scientist, Product Analytics",Meta,"Menlo Park, CA",2025,4,14,United States,Menlo Park,Data Scientist
+472,"Data Scientist, Product Analytics",Meta,"Austin, TX",2025,4,14,United States,Austin,Data Scientist
+473,"Data Scientist, Product Analytics",Meta,"Burlingame, CA",2025,4,14,United States,Burlingame,Data Scientist
+474,"Data Scientist, Product Analytics",Meta,"Bellevue, WA",2025,4,14,United States,Bellevue,Data Scientist
+476,"Data Scientist, Product Analytics",Meta,"Menlo Park, CA",2025,4,14,United States,Menlo Park,Data Scientist
+477,"Data Scientist, Product Analytics",Meta,"Washington, DC",2025,4,14,United States,Washington,Data Scientist
+478,AI Engineer,LinkedIn,"Sunnyvale, CA",2025,4,16,United States,Sunnyvale,AI Engineer
+479,Data Scientist,Meta,"Menlo Park, CA",2025,4,14,United States,Menlo Park,Data Scientist
+480,"Data Scientist, Product Analytics",Meta,"Redmond, WA",2025,4,14,United States,Redmond,Data Scientist
+481,"Data Scientist III, Product, Operations Data Science",Google,"San Francisco, CA",2025,4,12,United States,San Francisco,Data Scientist III
+482,"Data Scientist, Product Analytics",Meta,"Los Angeles, CA",2025,4,14,United States,Los Angeles,Data Scientist
+483,"Data Scientist, Product Analytics",Meta,"Washington, DC",2025,4,14,United States,Washington,Data Scientist
+484,"Data Scientist III, Product, Operations Data Science",Google,"Sunnyvale, CA",2025,4,12,United States,Sunnyvale,Data Scientist III
+486,"Data Scientist, Product Analytics",Meta,"Fremont, CA",2025,4,14,United States,Fremont,Data Scientist
+488,"Data Scientist, Product Analytics",Meta,"Sunnyvale, CA",2025,4,14,United States,Sunnyvale,Data Scientist
+496,Machine Learning Software Engineer (L5) - Content and Studio,Netflix,United States,2025,4,12,United States,United States,Machine Learning Software Engineer
+497,"Data Scientist, Product Analytics",Meta,"Austin, TX",2025,4,14,United States,Austin,Data Scientist
+499,Data Scientist III (Commercial Analytics),Cedar,United States,2025,4,10,United States,United States,Data Scientist III
+577,Data Engineer (L5) - Conversation,Netflix,UticaRome,2025,4,12,United States,UticaRome,Data Engineer
+578,Data Engineer (L4) - Security,Netflix,"Los Gatos, CA",2025,4,17,United States,Los Gatos,Data Engineer
+579,Data Engineer,Meta,"Fremont, CA",2025,4,14,United States,Fremont,Data Engineer
+580,"Data Engineer, Play Data Science and Analytics",Google,"Mountain View, CA",2025,4,12,United States,Mountain View,Data Engineer
+581,Data Engineer,Barstool Sports,"New York, NY",2025,4,11,United States,New York,Data Engineer
+582,Data Engineer,Calm,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Engineer
+583,"Data Engineer, Infrastructure",Notion,"San Francisco, CA",2025,4,16,United States,San Francisco,Data Engineer
+584,ML Software Engineer (L4/L5) - Media Algorithms,Netflix,"Los Angeles, CA",2025,4,15,United States,Los Angeles,ML Software Engineer
+585,Data Engineer,Costco Wholesale,"Seattle, WA",2025,4,12,United States,Seattle,Data Engineer
+586,Analytics Engineer (L4) - Acquisition,Netflix,"Los Gatos, CA",2025,4,16,United States,Los Gatos,Analytics Engineer
+587,Data Engineer,Meta,"Menlo Park, CA",2025,4,14,United States,Menlo Park,Data Engineer
+588,Data Engineer,Meta,"Bellevue, WA",2025,4,14,United States,Bellevue,Data Engineer
+589,Data Engineer,Walgreens,"Deerfield, IL",2025,4,10,United States,Deerfield,Data Engineer
+590,"Data Engineer, Product Analytics",Meta,"Los Angeles, CA",2025,4,14,United States,Los Angeles,Data Engineer
+591,Data Engineer,PepsiCo,"Plano, TX",2025,4,12,United States,Plano,Data Engineer
+592,Data Engineer I (Full Time) United States,Cisco,"San Jose, CA",2025,4,16,United States,San Jose,Data Engineer I
+593,"Software Engineer L4, Machine Learning Platform (Metaflow)",Netflix,"Los Gatos, CA",2025,4,12,United States,Los Gatos,Software Engineer L4
+594,"Data Engineer, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Engineer
+595,Data Engineer,Amazon,"Seattle, WA",2025,4,11,United States,Seattle,Data Engineer
+596,Data Engineer I (Full Time) United States,Cisco,"North Carolina, United States",2025,4,15,United States,North Carolina,Data Engineer I
+597,"Data Engineer, Product Analytics",Meta,"Fremont, CA",2025,4,14,United States,Fremont,Data Engineer
+598,"Software Engineer 5, Data Clean Room",Netflix,"Seattle, WA",2025,4,11,United States,Seattle,Software Engineer 5
+599,Senior Data Engineer,Acorns,United States,2025,4,11,United States,United States,Senior Data Engineer
+600,Data Engineer Graduate (Ads Data Application) - 2025 Start (BS/MS),TikTok,"San Jose, CA",2025,4,11,United States,San Jose,Data Engineer Graduate
+601,"Data Engineer, Product Analytics",Meta,"Miami, FL",2025,4,14,United States,Miami,Data Engineer
+602,"Data Engineer, Product Analytics",Meta,"Redmond, WA",2025,4,14,United States,Redmond,Data Engineer
+603,Data Engineer,Amazon,"Cupertino, CA",2025,4,13,United States,Cupertino,Data Engineer
+604,"Senior, Data Engineer",Walmart,"Sunnyvale, CA",2025,4,10,United States,Sunnyvale,Senior
+605,"Data Engineer, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Engineer
+606,"Software Engineer, AI Platform - New Grad",Nuro,"Mountain View, CA",2025,4,16,United States,Mountain View,Software Engineer
+607,"Data Engineer, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Engineer
+608,Data Engineer - People Analytics,Twitch,"San Francisco, CA",2025,4,16,United States,San Francisco,Data Engineer
+609,"Data Engineer, E-Commerce",TikTok,"Seattle, WA",2025,4,13,United States,Seattle,Data Engineer
+610,"Data Engineer, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Engineer
+611,"Data Engineer, VX Analytics",The Walt Disney Company,"Santa Monica, CA",2025,4,13,United States,Santa Monica,Data Engineer
+612,Sr. Data Engineer,Ford Motor Company,"Dearborn, MI",2025,4,12,United States,Dearborn,Sr. Data Engineer
+613,Data Engineer III,Walmart,"Sunnyvale, CA",2025,4,14,United States,Sunnyvale,Data Engineer III
+614,"Data Engineer, Product Analytics",Meta,"Austin, TX",2025,4,14,United States,Austin,Data Engineer
+615,"Data Engineer, Product Analytics",Meta,"Washington, DC",2025,4,14,United States,Washington,Data Engineer
+616,"Data Engineer, Product Analytics",Meta,United States,2025,4,14,United States,United States,Data Engineer
+617,Data Engineer,Snap Inc.,"Los Angeles, CA",2025,4,16,United States,Los Angeles,Data Engineer
+618,"Data Engineer, Product Analytics",Meta,"Fremont, CA",2025,4,14,United States,Fremont,Data Engineer
+619,"Data Engineer, Product Analytics",Meta,"Menlo Park, CA",2025,4,14,United States,Menlo Park,Data Engineer
+620,"Data Engineer, Product Analytics",Meta,"New York, NY",2025,4,14,United States,New York,Data Engineer
+621,"Data Engineer, Analytics (Technical Leadership)",Instagram,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Engineer
+622,"Remote Engineer, Data, I",Lensa,"Plano, TX",2025,4,16,United States,Plano,Remote Engineer
+623,"Data Engineer, Analytics (Technical Leadership)",Instagram,"New York, NY",2025,4,14,United States,New York,Data Engineer
+624,"Data Engineer, Product Analytics",Meta,"San Francisco, CA",2025,4,14,United States,San Francisco,Data Engineer
+625,"Sr. Data Engineer, Analytics",Quizlet,"New York, NY",2025,4,15,United States,New York,Sr. Data Engineer
+626,"Data Engineer, Product Analytics",Meta,"Bellevue, WA",2025,4,14,United States,Bellevue,Data Engineer
+627,Data Engineer Jr.,CGI,"Arlington, VA",2025,4,15,United States,Arlington,Data Engineer Jr.
+628,Data Engineer,Amazon,"New York, United States",2025,4,16,United States,New York,Data Engineer
+629,"Data Engineer, Product Analytics",Meta,"Seattle, WA",2025,4,14,United States,Seattle,Data Engineer
+630,Data Engineer - Subscriptions,Spotify,"New York, NY",2025,4,16,United States,New York,Data Engineer
+631,"Data Engineer, Product Analytics",Meta,"Sunnyvale, CA",2025,4,14,United States,Sunnyvale,Data Engineer
+632,"Data Engineer, E-Commerce",TikTok,"San Jose, CA",2025,4,14,United States,San Jose,Data Engineer
+633,"Data Engineer, Digital Acceleration",Amazon,"Bellevue, WA",2025,4,10,United States,Bellevue,Data Engineer
+634,(USA) Data Engineer III,Walmart,"Sunnyvale, CA",2025,4,10,United States,Sunnyvale,Data Engineer
+636,Data Engineer (University Grad),WhatsApp,"London, England, United Kingdom",2025,4,14,United Kingdom,London,Data Engineer
+639,"Data Engineer I, IN-Ads",Amazon,"Bengaluru, Karnataka, India",2025,4,10,India,Bengaluru,Data Engineer I
+640,Data Engineer - Python,Ericsson,"Bengaluru, Karnataka, India",2025,4,15,India,Bengaluru,Data Engineer
+642,Data Engineer with Python + SQL,Cognizant,"Bangalore Urban, Karnataka, India",2025,4,13,India,Bangalore Urban,Data Engineer with Python + SQL
+646,Data Engineer,Capgemini,"Hyderabad, Telangana, India",2025,4,11,India,Hyderabad,Data Engineer
+647,Data Engineer,PwC Acceleration Centers,"Bengaluru, Karnataka, India",2025,4,14,India,Bengaluru,Data Engineer
+648,"Data Engineer, Product Analytics",Meta,"Bengaluru, Karnataka, India",2025,4,14,India,Bengaluru,Data Engineer
+649,"Data Engineer, Marketplace",Lyft,"Toronto, Ontario, Canada",2025,4,12,Canada,Toronto,Data Engineer
+650,Data Engineer,Docusign,"Bengaluru, Karnataka, India",2025,4,15,India,Bengaluru,Data Engineer
+651,Data Engineer,Persistent Systems,"Pune, Maharashtra, India",2025,4,11,India,Pune,Data Engineer
+653,Data Engineer,Thomson Reuters,"Bengaluru, Karnataka, India",2025,4,11,India,Bengaluru,Data Engineer
+654,Data Engineer,Thomson Reuters,"Bengaluru, Karnataka, India",2025,4,11,India,Bengaluru,Data Engineer
+655,UK 2025 Data Engineer Internship,Amazon,"London, England, United Kingdom",2025,4,16,United Kingdom,London,UK 2025 Data Engineer Internship
+656,Data Engineer,ASOS.com,"London, England, United Kingdom",2025,4,15,United Kingdom,London,Data Engineer
+657,Infrastructure Partner Data Engineer,Google,"Bengaluru, Karnataka, India",2025,4,17,India,Bengaluru,Infrastructure Partner Data Engineer
+658,Data Engineer,Ericsson,Kolkata,2025,4,14,India,Kolkata,Data Engineer
+659,"Data Engineer I, SCOT - AIM",Amazon,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Data Engineer I
+660,"Infrastructure Partner Data Engineer, YouTube",Google,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Infrastructure Partner Data Engineer
+661,"Data Engineer I, SCOT - AIM",Amazon,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Data Engineer I
+662,Data Engineer,Thomson Reuters,"Hyderabad, Telangana, India",2025,4,11,India,Hyderabad,Data Engineer
+664,Data Engineer III,Banco Bradesco,"Osasco, São Paulo, Brazil",2025,4,17,Brazil,Osasco,Data Engineer III
+665,"Infrastructure Partner Data Engineer, Youtube",Google,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Infrastructure Partner Data Engineer
+666,Data Operation Engineer I,McKinsey & Company,"Gurugram, Haryana, India",2025,4,11,India,Gurugram,Data Operation Engineer I
+667,"Data Engineer I, SCOT - AIM",Amazon,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Data Engineer I
+668,Data Engineer(AWS),PwC Acceleration Centers,"Bengaluru, Karnataka, India",2025,4,14,India,Bengaluru,Data Engineer
+669,"Data Engineer I, SCOT - AIM",Amazon,"Bengaluru, Karnataka, India",2025,4,12,India,Bengaluru,Data Engineer I
+670,Data Engineer,Chevron,"Manila, National Capital Region, Philippines",2025,4,10,Philippines,Manila,Data Engineer
+671,Data Engineer,Samba TV,"Amsterdam, North Holland, Netherlands",2025,4,15,Netherlands,Amsterdam,Data Engineer
+672,Data Engineer,Thales,"Gambir, Jakarta, Indonesia",2025,4,17,Indonesia,Gambir,Data Engineer
+673,Data Engineer,Ford Motor Company,"Chennai, Tamil Nadu, India",2025,4,10,India,Chennai,Data Engineer
+674,Data Engineer,Mphasis,"Bengaluru, Karnataka, India",2025,4,14,India,Bengaluru,Data Engineer
+675,Associate Data Engineer,Commonwealth Bank,"Bengaluru East, Karnataka, India",2025,4,14,India,Bengaluru East,Associate Data Engineer
+677,Data Engineer - C10,Citi,"Pune, Maharashtra, India",2025,4,16,India,Pune,Data Engineer
+679,Data Engineer - Commerce Platform,Spotify,"London, England, United Kingdom",2025,4,12,United Kingdom,London,Data Engineer
+680,Data Engineer,Coca-Cola HBC,"Cairo, Egypt",2025,4,13,Egypt,Cairo,Data Engineer
+682,Data Engineer - Enterprise Data Operations Analyst,PepsiCo,"Hyderabad, Telangana, India",2025,4,14,India,Hyderabad,Data Engineer
+683,Jr. Data Engineer,Procter & Gamble,Istanbul,2025,4,10,Turkey,Istanbul,Jr. Data Engineer
+684,Data Engineer - C11,Citi,"Pune, Maharashtra, India",2025,4,16,India,Pune,Data Engineer
+687,Python & SQL Data Engineer_Director_Software Engineering,Morgan Stanley,"Mumbai, Maharashtra, India",2025,4,12,India,Mumbai,Python & SQL Data Engineer_Director_Software Engineering
+688,"Senior Software Engineer, Systems Infrastructure",LinkedIn,"Bengaluru, Karnataka, India",2025,4,11,India,Bengaluru,Senior Software Engineer
+689,Data Analytics Engineer,Checkout.com,"London, England, United Kingdom",2025,4,14,United Kingdom,London,Data Analytics Engineer
+690,Data Engineer (Platform),tiket.com,"Jakarta, Jakarta, Indonesia",2025,4,11,Indonesia,Jakarta,Data Engineer
+691,Data Engineer- Python Pyspark,Virtusa,"Chennai, Tamil Nadu, India",2025,4,10,India,Chennai,Data Engineer
+692,Data Engineer with Pyspark,Cognizant,"Bangalore Urban, Karnataka, India",2025,4,13,India,Bangalore Urban,Data Engineer with Pyspark
+693,Data Engineer,Mercedes-Benz Malaysia,"Puchong, Selangor, Malaysia",2025,4,16,Malaysia,Puchong,Data Engineer
+740,Data Engineer I,IntePros,"Seattle, WA",2025,4,15,United States,Seattle,Data Engineer I
+741,Data Engineer,Snap Inc.,"Bellevue, WA",2025,4,16,United States,Bellevue,Data Engineer
+814,Data Analyst - SPX Express (Jakarta),Shopee,"Jakarta, Indonesia",2025,4,18,Indonesia,Jakarta,Data Analyst
+826,Data Analyst,ExxonMobil,"Houston, TX",2025,4,17,United States,Houston,Data Analyst
+834,"Data Analyst II, Client Analytics",Omada Health,United States,2025,4,19,United States,United States,Data Analyst II
+836,"Data Analyst, Supply Chain",SpaceX,"Redmond, WA",2025,4,17,United States,Redmond,Data Analyst
+837,"Data Analyst, Global Partnerships & Content",Meta,"New York, NY",2025,4,17,United States,New York,Data Analyst
+840,"Data Products Analyst, YouTube",Google,"New York, NY",2025,4,18,United States,New York,Data Products Analyst
+842,"Data Analyst, Global Partnerships & Content",Meta,"Menlo Park, CA",2025,4,17,United States,Menlo Park,Data Analyst
+845,"Data Analyst, Global Partnerships & Content",Meta,"Los Angeles, CA",2025,4,17,United States,Los Angeles,Data Analyst
+846,Data Analyst,Stripe,"Chicago, IL",2025,5,19,United States,Chicago,Data Analyst
+847,Data Analyst,Microsoft,"Redmond, WA",2025,5,16,United States,Redmond,Data Analyst
+848,Data Analyst III,Vimeo,"New York, NY",2025,5,19,United States,New York,Data Analyst III
+849,Data Analyst,The Walt Disney Company,"New York, NY",2025,5,17,United States,New York,Data Analyst
+850,Data Analyst Intern,Fizz,"New York, NY",2025,5,16,United States,New York,Data Analyst Intern
+851,"Data Analyst, Experimentation",FanDuel,"New York, NY",2025,5,21,United States,New York,Data Analyst
+858,"Data & Analytics, Analyst",TikTok,"Los Angeles, CA",2025,5,16,United States,Los Angeles,Data & Analytics
+859,"Sector Analyst, MI-Data",Point72,"New York, United States",2025,5,17,United States,New York,Sector Analyst
+860,SQL Data analyst,FinThrive,United States,2025,5,19,United States,United States,SQL Data analyst
+861,Data Analyst,Numero Data,"Herndon, VA",2025,5,15,United States,Herndon,Data Analyst
+862,Data Analyst,Avant-garde Health,"Boston, MA",2025,5,21,United States,Boston,Data Analyst
+863,"Sr. Analyst, Data & Analytics",Authentic Brands Group,"New York, NY",2025,5,16,United States,New York,Sr. Analyst
+864,TikTok Shop - Data Analyst,TikTok,"San Jose, CA",2025,5,15,United States,San Jose,TikTok Shop
+865,Junior Data Analyst,Mosaic North America,Dallas-Fort Worth,2025,5,20,United States,Dallas-Fort Worth,Junior Data Analyst
+866,Data Analyst,Alivi,"Miami, FL",2025,5,20,United States,Miami,Data Analyst
+867,Data Analyst,Keurig Dr Pepper Inc.,"Frisco, TX",2025,5,20,United States,Frisco,Data Analyst
+868,Data Analyst : 25-05044,"Akraya, Inc.","Palo Alto, CA",2025,5,22,United States,Palo Alto,Data Analyst : 25
+869,Data Analyst,Arc,"New York, NY",2025,5,20,United States,New York,Data Analyst
+870,Data Analyst,Thryv,United States,2025,5,21,United States,United States,Data Analyst
+871,Data Analyst,"V-Soft Consulting Group, Inc.","Indianapolis, IN",2025,5,16,United States,Indianapolis,Data Analyst
+872,Data Analyst,NovumHealth,Salt Lake City,2025,5,19,United States,Salt Lake City,Data Analyst
+873,Data Analyst (22227),Orion Innovation,"Edison, NJ",2025,5,19,United States,Edison,Data Analyst
+874,BI / Data Analyst,Kforce Inc,"Cornelius, NC",2025,5,15,United States,Cornelius,BI / Data Analyst
+875,Data Analyst,Foodsmart,United States,2025,5,20,United States,United States,Data Analyst
+876,Data Fulfillment Analyst,National Basketball Association (NBA),"New York, NY",2025,5,18,United States,New York,Data Fulfillment Analyst
+877,Data Analyst,Equifax,"Alpharetta, GA",2025,5,17,United States,Alpharetta,Data Analyst
+878,Data Analyst - People Analytics (Short-Term Employment),Meta,"New York, NY",2025,5,21,United States,New York,Data Analyst
+879,Data Analyst,Javvy Coffee,United States,2025,5,21,United States,United States,Data Analyst
+880,"Analyst, Analytics",Publicis Collective,"New York, NY",2025,5,16,United States,New York,Analyst
+881,"Specialist, Commercial Data Reporting and Analysis",Delta Air Lines,"Atlanta, GA",2025,5,15,United States,Atlanta,Specialist
+882,"Data Analyst, TOM Data Infra Team",Amazon,"Bellevue, WA",2025,5,21,United States,Bellevue,Data Analyst
+883,Data Analyst,Virtusa,"San Jose, CA",2025,5,21,United States,San Jose,Data Analyst
+884,Data Analyst,Swoon,"Dallas, TX",2025,5,16,United States,Dallas,Data Analyst
+885,Business Intelligence Analyst,Altimetrik,"Mountain View, CA",2025,5,15,United States,Mountain View,Business Intelligence Analyst
+886,Data Analyst,Insight Global,"Columbus, Ohio",2025,5,20,United States,Columbus,Data Analyst
+887,Tableau Data Analyst,Tradeweb,"New York, NY",2025,5,21,United States,New York,Tableau Data Analyst
+888,Senior Data Analyst,FanDuel,"New York, NY",2025,5,15,United States,New York,Senior Data Analyst
+889,Senior Data Analyst,SHEIN,"New Jersey, United States",2025,5,21,United States,New Jersey,Senior Data Analyst
+890,Data Analyst,"Bell & Associates, Inc.","Nashville, TN",2025,5,15,United States,Nashville,Data Analyst
+891,Data Analyst,PENNYMAC,"Agoura Hills, CA",2025,5,16,United States,Agoura Hills,Data Analyst
+892,GTM Tableau Data Analyst,Yext,"New York, United States",2025,5,21,United States,New York,GTM Tableau Data Analyst
+893,Data Analyst,City of New York,"Manhattan, NY",2025,5,16,United States,Manhattan,Data Analyst
+894,ESG Data Analyst,Malk Partners,"New York, NY",2025,5,16,United States,New York,ESG Data Analyst
+895,Data Analyst,Engine,United States,2025,5,20,United States,United States,Data Analyst
+896,Data & Analytics,Trace3,United States,2025,5,16,United States,United States,Data & Analytics
+897,Data Analyst,AARATECH,"California, United States",2025,5,21,United States,California,Data Analyst
+898,Senior Data Analyst,Jake Taylor,United States,2025,5,16,United States,United States,Senior Data Analyst
+899,"Analyst, Analytics",Starcom,"New York, NY",2025,5,19,United States,New York,Analyst
+900,Data Analyst Intern,Envoy,"San Francisco, CA",2025,5,17,United States,San Francisco,Data Analyst Intern
+901,"Sr. Data Analytics and Visualization Analyst ($95,000 - $110,000 salary)",Korn Ferry,"Sandy Springs, GA",2025,5,18,United States,Sandy Springs,Sr. Data Analytics and Visualization Analyst
+902,Business Data Analyst,AppsFlyer,"San Francisco, CA",2025,5,15,United States,San Francisco,Business Data Analyst
+903,Data Science Analyst II,Experian,"Costa Mesa, CA",2025,5,20,United States,Costa Mesa,Data Science Analyst II
+904,Data Analyst (various levels open),"HRCap, Inc.",United States,2025,5,15,United States,United States,Data Analyst
+905,Data Analyst,Vevo,"New York, NY",2025,5,20,United States,New York,Data Analyst
+906,Data Analyst,Equitable,"Charlotte, NC",2025,5,21,United States,Charlotte,Data Analyst
+907,Data Analyst,Insight Global,St. Louis,2025,5,16,United States,St. Louis,Data Analyst
+908,Retail Operations Data Analyst,Meta,"New York, NY",2025,5,16,United States,New York,Retail Operations Data Analyst
+909,Data Analyst,McMaster-Carr,"Elmhurst, IL",2025,5,20,United States,Elmhurst,Data Analyst
+910,PowerBI Analyst,Mitchell Martin Inc.,"Lake Forest, IL",2025,5,16,United States,Lake Forest,PowerBI Analyst
+911,"Business Intelligence Analyst, Global Research Operations",Meta,"New York, NY",2025,5,20,United States,New York,Business Intelligence Analyst
+912,Analista Dados JR,PicPay,"São Paulo, São Paulo, Brazil",2025,5,20,Brazil,São Paulo,Analista Dados JR
+913,Data Analyst,noon,"Delhi, India",2025,5,21,India,Delhi,Data Analyst
+914,Insight Analyst UK,ASOS.com,"London, England, United Kingdom",2025,5,21,United Kingdom,London,Insight Analyst UK
+915,Data Analyst Staff - Jakarta,PT. Medquest Jaya Global,"Jakarta, Jakarta, Indonesia",2025,5,22,Indonesia,Jakarta,Data Analyst Staff
+916,Data Analyst,Propel,"London , United Kingdom",2025,5,20,United Kingdom,London ,Data Analyst
+918,KX Analytics (Tableau & SQL)- Analyst-Hyderabad,Deloitte,"Hyderabad, Telangana, India",2025,5,20,India,Hyderabad,KX Analytics
+919,Analista de Dados Jr (área de Fraude) - São Paulo/SP,Shopee,"São Paulo, São Paulo, Brazil",2025,5,21,Brazil,São Paulo,Analista de Dados Jr
+920,Analista de Dados Jr,Edenred Brasil,"São Paulo, São Paulo, Brazil",2025,5,21,Brazil,São Paulo,Analista de Dados Jr
+921,Data Analyst,Schbang,Mumbai,2025,5,21,India,Mumbai,Data Analyst
+922,Internship - Data Analysis [RID-00469],Setel,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",2025,5,22,Malaysia,Kuala Lumpur,Internship
+923,Product Data Analyst,Crypto.com,Hong Kong,2025,5,22,Hong Kong,Hong Kong,Product Data Analyst
+924,ICICI Securities - Data Analyst - SQL/Python,ICICIDirect,"Navi Mumbai, Maharashtra, India",2025,5,22,India,Navi Mumbai,ICICI Securities
+925,Data Analyst,LTIMindtree,"Pune, Maharashtra, India",2025,5,22,India,Pune,Data Analyst
+926,Operation Analyst-Power Bi & SQL,Tech Mahindra,"Hyderabad, Telangana, India",2025,5,21,India,Hyderabad,Operation Analyst
+927,Data Analyst,La Fosse,"London , United Kingdom",2025,5,20,United Kingdom,London ,Data Analyst
+929,Junior Data Analyst,Observador,"Lisboa, Lisbon, Portugal",2025,5,21,Portugal,Lisboa,Junior Data Analyst
+931,"Data Analyst - Brand Analytics, Regional Brand Partnership",Shopee,"Singapore, Singapore",2025,5,20,Singapore,Singapore,Data Analyst
+932,Marketing Data Analyst,Naranja X,Argentina,2025,5,20,Argentina,Argentina,Marketing Data Analyst
+936,Data Analyst,i3,"London , United Kingdom",2025,5,20,United Kingdom,London ,Data Analyst
+938,Data Analyst-1,Games24x7,"Bengaluru, Karnataka, India",2025,5,20,India,Bengaluru,Data Analyst
+939,Data Analyst I,Booking.com,"Amsterdam, North Holland, Netherlands",2025,5,21,Netherlands,Amsterdam,Data Analyst I
+940,Data Analyst,Circle K,"Gurugram, Haryana, India",2025,5,21,India,Gurugram,Data Analyst
+942,Data Analyst,La Fosse,"Chiswick, England, United Kingdom",2025,5,20,United Kingdom,Chiswick,Data Analyst
+946,PowerBi,Virtusa,Mumbai,2025,5,20,India,Mumbai,PowerBi
+947,Analista de Dados de Operações Junior,Dasa,"Cascavel, Paraná, Brazil",2025,5,19,Brazil,Cascavel,Analista de Dados de Operações Junior
+949,Data Analyst,University of Warwick,Coventry,2025,5,20,United Kingdom,Coventry,Data Analyst
+950,Data Analyst,Urban Gym Group,"AmsterdamCentrum, North Holland, Netherlands",2025,5,21,Netherlands,AmsterdamCentrum,Data Analyst
+951,Analyst-Data Analytics,American Express,"Gurgaon, Haryana, India",2025,5,21,India,Gurgaon,Analyst
+952,ANALISTA DE DADOS JR / PL,Direcional Engenharia,"São Paulo, São Paulo, Brazil",2025,5,20,Brazil,São Paulo,ANALISTA DE DADOS JR / PL
+954,Analista Cadastro II,A.C.Camargo Cancer Center,"São Paulo, São Paulo, Brazil",2025,5,21,Brazil,São Paulo,Analista Cadastro II
+956,Junior Data Analyst,AMBOSS,"Berlin, Berlin, Germany",2025,5,20,Germany,Berlin,Junior Data Analyst
+957,Business Intelligence Analyst,upGrad,"Mumbai, Maharashtra, India",2025,5,20,India,Mumbai,Business Intelligence Analyst
+958,Data Analyst,Kindred,India,2025,5,20,India,India,Data Analyst
+959,Analyst - Data Analytics,KPMG India,"Gurgaon, Haryana, India",2025,5,22,India,Gurgaon,Analyst
+962,"Data Analyst (Remote, Graveyard)",Anytime Mailbox,Philippines,2025,5,22,Philippines,Philippines,Data Analyst
+963,"Quant Analytics Analyst - SQL, Python",JPMorganChase,"Bengaluru, Karnataka, India",2025,5,20,India,Bengaluru,Quant Analytics Analyst
+965,Data Analyst,Cognizant,"Dublin, County Dublin, Ireland",2025,5,22,Ireland,Dublin,Data Analyst
+1025,Junior Data Analyst,AARATECH,"New York, United States",2025,5,21,United States,New York,Junior Data Analyst
+1077,Data Visualisation & Insights Analyst,Nixor,"Gaydon, England, United Kingdom",2025,5,19,United Kingdom,Gaydon,Data Visualisation & Insights Analyst
+1079,Senior Data Analyst [T500-18077],Careem,"Bengaluru, Karnataka, India",2025,5,21,India,Bengaluru,Senior Data Analyst [T500
+1081,Analista de Dados II,Meta,Brazil,2025,5,19,Brazil,Brazil,Analista de Dados II
+1082,Business Intelligence Analyst,Mastek,"Bengaluru, Karnataka, India",2025,5,20,India,Bengaluru,Business Intelligence Analyst
+1083,Data Analytics Analyst (H/F),ODDO BHF,"Frankfurt, Hesse, Germany",2025,5,20,Germany,Frankfurt,Data Analytics Analyst
+1084,Marketing Data Analyst,Nicholson Glover,"London , United Kingdom",2025,5,21,United Kingdom,London ,Marketing Data Analyst
+1085,Analista de Business Intelligence Júnior,iFood,Brazil,2025,5,19,Brazil,Brazil,Analista de Business Intelligence Júnior
+1206,Data Scientist (L5) - Content,Netflix,United States,2025,5,16,United States,United States,Data Scientist
+1207,AI Research Scientist,Zoom,"Seattle, WA",2025,5,15,United States,Seattle,AI Research Scientist
+1208,Data Scientist (L5) - Customer Service,Netflix,United States,2025,5,20,United States,United States,Data Scientist
+1209,"Data Scientist, Product Analytics",Handshake,"San Francisco, CA",2025,5,20,United States,San Francisco,Data Scientist
+1210,"Data Scientist (L6), Games",Netflix,"California, United States",2025,5,21,United States,California,Data Scientist
+1211,Data Scientist (L5) - Customer Service Experimentation,Netflix,United States,2025,5,20,United States,United States,Data Scientist
+1213,Growth Data Scientist/ Analyst,Crypto.com,United States,2025,5,20,United States,United States,Growth Data Scientist/ Analyst
+1214,Data Scientist,Warner Music Group,"New York, NY",2025,5,16,United States,New York,Data Scientist
+1215,"Data Scientist, Customer Analytics (Remote)",Experian,United States,2025,5,20,United States,United States,Data Scientist
+1216,Data Scientist,Twitch,"San Francisco, CA",2025,5,20,United States,San Francisco,Data Scientist
+1217,Data Scientist (L5) - Member Algorithm Foundations,Netflix,United States,2025,5,19,United States,United States,Data Scientist
+1218,Data Scientist,StreetID,New York City,2025,5,21,United States,New York City,Data Scientist
+1219,Machine Learning Engineer,Samsung Electronics,"Mountain View, CA",2025,5,20,United States,Mountain View,Machine Learning Engineer
+1220,"Data Scientist, Remote",Experian,United States,2025,5,15,United States,United States,Data Scientist
+1221,Data Scientist,Rokt,"New York, NY",2025,5,21,United States,New York,Data Scientist
+1222,Data Scientist,Elder Research,United States,2025,5,21,United States,United States,Data Scientist
+1223,AI/ML Engineer,Blueprint,"New York, NY",2025,5,22,United States,New York,AI/ML Engineer
+1224,AI/ML Engineer,Blueprint,"San Francisco, CA",2025,5,22,United States,San Francisco,AI/ML Engineer
+1225,AI/ML Engineer,Blueprint,"Chicago, IL",2025,5,22,United States,Chicago,AI/ML Engineer
+1226,Data Scientist (Remote),Elder Research,"Arlington, VA",2025,5,17,United States,Arlington,Data Scientist
+1227,"Data Scientist, Product Analytics - Retail Analytics",Meta,"New York, NY",2025,5,15,United States,New York,Data Scientist
+1228,Data Scientist - Sports Analytics,Inizio Partners,New York City,2025,5,21,United States,New York City,Data Scientist
+1229,AI/ML Engineer,Blueprint,United States,2025,5,22,United States,United States,AI/ML Engineer
+1230,Data Scientist- Jr,Peraton,"Washington, DC",2025,5,17,United States,Washington,Data Scientist
+1231,Machine Learning Engineer (L4/5) - Studio Media Algorithms,Netflix,United States,2025,5,15,United States,United States,Machine Learning Engineer
+1232,Machine Learning Engineer,Bytez,San Francisco Bay,2025,5,16,United States,San Francisco Bay,Machine Learning Engineer
+1233,Data Scientist- Entry Level,Incedo Inc.,"Florham Park, NJ",2025,5,20,United States,Florham Park,Data Scientist
+1234,AI/ML Engineer (early-career),Lockheed Martin,"Texas, United States",2025,5,21,United States,Texas,AI/ML Engineer
+1235,"Staff Data Scientist, Locations",Airbnb,United States,2025,5,16,United States,United States,Staff Data Scientist
+1236,Data Scientist,Twitch,"San Francisco County, CA",2025,5,20,United States,San Francisco County,Data Scientist
+1237,Junior Data Scientist,Lensa,"Arlington, VA",2025,5,22,United States,Arlington,Junior Data Scientist
+1238,Operations Data Scientist,Aspect Software,United States,2025,5,20,United States,United States,Operations Data Scientist
+1239,Data Scientist,The Energy Authority,"Bellevue, WA",2025,5,19,United States,Bellevue,Data Scientist
+1240,Data Scientist,Illumination Works,United States,2025,5,16,United States,United States,Data Scientist
+1241,"Data Scientist,  Marketing Analytics",Ibotta,"Denver, CO",2025,5,16,United States,Denver,Data Scientist
+1242,Data Scientist - Simulation,Eli Lilly and Company,"Indianapolis, IN",2025,5,16,United States,Indianapolis,Data Scientist
+1243,"Data Scientist, Square Support",Square,United States,2025,5,21,United States,United States,Data Scientist
+1244,Junior Data Scientist,Tech Consulting,"Florida, United States",2025,5,21,United States,Florida,Junior Data Scientist
+1246,Data Scientist,Ascendion,United States,2025,5,21,United States,United States,Data Scientist
+1247,Data Scientist 1,PayPal,"Chicago, IL",2025,5,21,United States,Chicago,Data Scientist 1
+1248,Data Scientist and Analysis,Randstad Life Sciences US,"San Francisco, CA",2025,5,21,United States,San Francisco,Data Scientist and Analysis
+1249,Data Scientist,Takeda,"Boston, MA",2025,5,17,United States,Boston,Data Scientist
+1250,AI/ML Engineer,Ringside Talent,"Chicago, IL",2025,5,19,United States,Chicago,AI/ML Engineer
+1251,Data Scientist,Disney Music Group,"Burbank, CA",2025,5,15,United States,Burbank,Data Scientist
+1252,"Data Scientist, Product Analytics - Retail Analytics",Meta,"Burlingame, CA",2025,5,15,United States,Burlingame,Data Scientist
+1253,Data Scientist,Ford Motor Company,"Dearborn, MI",2025,5,21,United States,Dearborn,Data Scientist
+1254,Data Scientist,The Arena,Washington DC,2025,5,21,United States,Washington DC,Data Scientist
+1255,Data Scientist (Remote),"OCULUS, Inc.","Arlington, WA",2025,5,19,United States,Arlington,Data Scientist
+1256,Machine Learning Engineer,StreetID,New York City,2025,5,21,United States,New York City,Machine Learning Engineer
+1257,Data Scientist,Skai,"New York, NY",2025,5,16,United States,New York,Data Scientist
+1258,Sr. Data Scientist (Commercial Analytics),Cedar,United States,2025,5,21,United States,United States,Sr. Data Scientist
+1259,"Decision Scientist, Client Analytics",Simbe,"South San Francisco, CA",2025,5,22,United States,South San Francisco,Decision Scientist
+1260,Data Scientist,TechOp Solutions International,"Tampa, FL",2025,5,20,United States,Tampa,Data Scientist
+1261,Machine Learning Engineer,Aviture,"Omaha, NE",2025,5,20,United States,Omaha,Machine Learning Engineer
+1262,Data Scientist,AE Studio,United States,2025,5,15,United States,United States,Data Scientist
+1263,Product Data Scientist,Bask Health,"New York, NY",2025,5,16,United States,New York,Product Data Scientist
+1264,Data Scientist - ML & Algorithms Focus,Conviva,"Foster City, CA",2025,5,21,United States,Foster City,Data Scientist
+1265,"Sr. Data Scientist, Analytics - Core Product",Quizlet,"San Francisco, CA",2025,5,15,United States,San Francisco,Sr. Data Scientist
+1266,Data Scientist,HDFC Bank,"Mumbai, Maharashtra, India",2025,5,20,India,Mumbai,Data Scientist
+1269,Data Science Specialist,Banque Misr,"Cairo, Cairo, Egypt",2025,5,21,Egypt,Cairo,Data Science Specialist
+1272,Cientista de Dados em People Analytics,Cielo,"Barueri, São Paulo, Brazil",2025,5,20,Brazil,Barueri,Cientista de Dados em People Analytics
+1273,Machine Learning Engineer,Sodexo,"Mumbai, Maharashtra, India",2025,5,22,India,Mumbai,Machine Learning Engineer
+1278,Junior Data Scientist,Intellect Group,"London , United Kingdom",2025,5,19,United Kingdom,London ,Junior Data Scientist
+1279,Data Scientist,Mondu,"Berlin, Berlin, Germany",2025,5,20,Germany,Berlin,Data Scientist
+1281,Data Scientist,Banco de Crédito BCP,"Lima, Peru",2025,5,20,Peru,Lima,Data Scientist
+1283,Data Scientist – Data Science Analytics and Enablement (DSAE),Sony Interactive Entertainment,"London, England, United Kingdom",2025,5,19,United Kingdom,London,Data Scientist – Data Science Analytics and Enablement
+1284,Junior Data Scientist,Munich Re,"Dubai, Dubai, United Arab Emirates",2025,5,22,United Arab Emirates,Dubai,Junior Data Scientist
+1285,Data Scientist,SLB,"Pune, Maharashtra, India",2025,5,22,India,Pune,Data Scientist
+1286,Data Scientist,Interbank,"Lima, Peru",2025,5,19,Peru,Lima,Data Scientist
+1288,AI/ML Engineer,Blueprint,Canada,2025,5,22,Canada,Canada,AI/ML Engineer
+1290,Junior Machine Learning Engineer,Advansys,"Nasr City, Cairo, Egypt",2025,5,20,Egypt,Nasr City,Junior Machine Learning Engineer
+1291,Data Scientist,Protect Group,"Pune, Maharashtra, India",2025,5,22,India,Pune,Data Scientist
+1292,Junior Data Scientist,Amartha,Jakarta,2025,5,22,Indonesia,Jakarta,Junior Data Scientist
+1293,Data Scientist,Chubb Life New Zealand,"Auckland, Auckland, New Zealand",2025,5,21,New Zealand,Auckland,Data Scientist
+1294,Machine Learning Officer - Junior,Inetum,"Lisboa, Lisbon, Portugal",2025,5,21,Portugal,Lisboa,Machine Learning Officer
+1295,Junior Data Scientist - User Fraud,Spotify,"Stockholm, Stockholm County, Sweden",2025,5,19,Sweden,Stockholm,Junior Data Scientist
+1296,Data Scientist,Scotiabank,"Toronto, Ontario, Canada",2025,5,22,Canada,Toronto,Data Scientist
+1297,JUNIOR DATA SCIENTIST,IRIUM,"Viladecans, Catalonia, Spain",2025,5,20,Spain,Viladecans,JUNIOR DATA SCIENTIST
+1298,Data Scientist II - Client Platform,Spotify,"Stockholm, Stockholm County, Sweden",2025,5,21,Sweden,Stockholm,Data Scientist II
+1299,AI/ML Engineer,TechHeads,"County Dublin, Ireland",2025,5,21,Ireland,County Dublin,AI/ML Engineer
+1300,Machine Learning Engineer Junior,Experian Spanish Latam,"Bogota, D.C., Capital District, Colombia",2025,5,22,Colombia,Bogota,Machine Learning Engineer Junior
+1301,Data Scientist,Eden Smith Group,"Kent, England, United Kingdom",2025,5,22,United Kingdom,Kent,Data Scientist
+1302,Data Scientist,Recro,"Bengaluru, Karnataka, India",2025,5,20,India,Bengaluru,Data Scientist
+1303,Data Scientist,Chubb Life New Zealand,"Christchurch, Canterbury, New Zealand",2025,5,21,New Zealand,Christchurch,Data Scientist
+1304,"Machine Learning Engineer ,Pytorch Engineering , Bangalore, India",Red Hat,"Bengaluru, Karnataka, India",2025,5,19,India,Bengaluru,Machine Learning Engineer
+1309,Data Scientist,IndusInd Bank,"Gurugram, Haryana, India",2025,5,22,India,Gurugram,Data Scientist
+1310,Data Scientist,Chubb Life New Zealand,"Wellington, Wellington, New Zealand",2025,5,21,New Zealand,Wellington,Data Scientist
+1311,Data Scientist,Lenovo,"Kuala Lumpur, Federal Territory of Kuala Lumpur, Malaysia",2025,5,19,Malaysia,Kuala Lumpur,Data Scientist
+1312,Data Scientist,HomeBuddy,Spain,2025,5,21,Spain,Spain,Data Scientist
+1313,Junior Data Scientist,CooperVision,"Fareham, England, United Kingdom",2025,5,20,United Kingdom,Fareham,Junior Data Scientist
+1314,DE&S Data Scientist,UK Ministry of Defence,"Bristol, England, United Kingdom",2025,5,19,United Kingdom,Bristol,DE&S Data Scientist
+1315,Data Scientist,Aurum,"London, England, United Kingdom",2025,5,21,United Kingdom,London,Data Scientist
+1316,DATA Scientist,Gruppo BCC Iccrea,"Rome, Latium, Italy",2025,5,20,Italy,Rome,DATA Scientist
+1317,Data Scientist,Jubilant FoodWorks Ltd.,"Noida, Uttar Pradesh, India",2025,5,22,India,Noida,Data Scientist
+1318,Data Scientist,Crisil,"Bogotá, Capital District, Colombia",2025,5,19,Colombia,Bogotá,Data Scientist
+1321,"Data Scientist, Product, Play Monetization",Google,"Bengaluru, Karnataka, India",2025,5,21,India,Bengaluru,Data Scientist
+1445,Analytics Engineer (L5) - Consumer Insights DSE,Netflix,"Los Gatos, CA",2025,5,17,United States,Los Gatos,Analytics Engineer
+1446,Analytics Engineer (L5) - Ads,Netflix,United States,2025,5,16,United States,United States,Analytics Engineer
+1447,Data Engineer,PepsiCo,"Chicago, IL",2025,5,16,United States,Chicago,Data Engineer
+1448,Data Engineer (L5) - Commerce Product Data Engineering,Netflix,United States,2025,5,16,United States,United States,Data Engineer
+1449,Data Engineer I,Chewy,"Plantation, FL",2025,5,16,United States,Plantation,Data Engineer I
+1450,Data Engineer I,Chewy,"Bellevue, WA",2025,5,16,United States,Bellevue,Data Engineer I
+1451,Data Engineer,OPPO,"Palo Alto, CA",2025,5,17,United States,Palo Alto,Data Engineer
+1452,Data Engineer,Finix,"San Francisco, CA",2025,5,17,United States,San Francisco,Data Engineer
+1453,Data Engineer,Adobe,"San Jose, CA",2025,5,19,United States,San Jose,Data Engineer
+1454,Data Engineer (L5) - Content Production & Promotion,Netflix,United States,2025,5,16,United States,United States,Data Engineer
+1455,Data Engineer,Atlassian,"San Francisco, CA",2025,5,17,United States,San Francisco,Data Engineer
+1456,Data Engineer,Discord,"San Francisco, CA",2025,5,21,United States,San Francisco,Data Engineer
+1457,Data Engineer - Spark,"Lowe's Companies, Inc.","Charlotte, NC",2025,5,21,United States,Charlotte,Data Engineer
+1458,Data Engineer,PepsiCo,"Purchase, NY",2025,5,17,United States,Purchase,Data Engineer
+1459,Software Engineer (L4) - Cloud Network Engineering,Netflix,United States,2025,5,21,United States,United States,Software Engineer
+1460,Senior Data Engineer,Calm,"San Francisco, CA",2025,5,20,United States,San Francisco,Senior Data Engineer
+1461,Software Engineer L5 - Ads Platform,Netflix,United States,2025,5,15,United States,United States,Software Engineer L5
+1462,"Junior Data Engineer (Remote, US)",Sayari,United States,2025,5,21,United States,United States,Junior Data Engineer
+1463,"Data Engineer, Data Application",TikTok,"Seattle, WA",2025,5,17,United States,Seattle,Data Engineer
+1464,Systems Software Engineer L4,Netflix,United States,2025,5,21,United States,United States,Systems Software Engineer L4
+1465,Junior Data Engineer,IDEXX,"Nashville, TN",2025,5,15,United States,Nashville,Junior Data Engineer
+1466,Analytics Engineer,Google DeepMind,"Mountain View, CA",2025,5,19,United States,Mountain View,Analytics Engineer
+1468,Data Engineer,Indiana University Indianapolis,"Indianapolis, IN",2025,5,19,United States,Indianapolis,Data Engineer
+1469,Data Engineer,Casey's,Des Moines,2025,5,20,United States,Des Moines,Data Engineer
+1470,"Data Engineer, Personalization",Spotify,"New York, NY",2025,5,20,United States,New York,Data Engineer
+1471,Senior Data Engineer,Samsara,United States,2025,5,15,United States,United States,Senior Data Engineer
+1472,Data Engineer I,"Clyde Companies, Inc.","Orem, UT",2025,5,16,United States,Orem,Data Engineer I
+1473,Data Engineer,Middle Seat,"Washington, DC",2025,5,19,United States,Washington,Data Engineer
+1474,Data Engineer,Ibotta,"Denver, CO",2025,5,20,United States,Denver,Data Engineer
+1475,Data Engineer,Alibaba Cloud,"Los Angeles, CA",2025,5,16,United States,Los Angeles,Data Engineer
+1476,Analytics Engineer,DoorDash,"San Francisco, CA",2025,5,18,United States,San Francisco,Analytics Engineer
+1477,"Data Engineer - Atlanta, GA",The Home Depot,"Atlanta, GA",2025,5,17,United States,Atlanta,Data Engineer
+1478,Analytics Engineer,DoorDash,"Sunnyvale, CA",2025,5,17,United States,Sunnyvale,Analytics Engineer
+1479,"Senior Data Engineer, Snowflake",Presidio,United States,2025,5,15,United States,United States,Senior Data Engineer
+1480,Senior Data Engineer,Discord,"San Francisco, CA",2025,5,22,United States,San Francisco,Senior Data Engineer
+1481,Experienced Data Engineer - Data Engineering,Plaid,"San Francisco, CA",2025,5,21,United States,San Francisco,Experienced Data Engineer
+1482,Senior Data Engineer,Handshake,"San Francisco, CA",2025,5,15,United States,San Francisco,Senior Data Engineer
+1483,Data / BI Engineer,Veracity Software Inc,"California, United States",2025,5,21,United States,California,Data / BI Engineer
+1484,Data Engineer,Sigma,"San Francisco, CA",2025,5,19,United States,San Francisco,Data Engineer
+1485,"Data Engineer, Product Analytics",Meta,"Fremont, CA",2025,5,17,United States,Fremont,Data Engineer
+1486,Data Engineer,Adobe,"Lehi, UT",2025,5,19,United States,Lehi,Data Engineer
+1487,"Data Engineer I (Reno, NV/ Hybrid, US)",Bombora,"Reno, NV",2025,5,16,United States,Reno,Data Engineer I
+1488,"Data Engineer II, PubTech Data, Insights & Analytics",Amazon,"Seattle, WA",2025,5,16,United States,Seattle,Data Engineer II
+1489,Data Engineer,Leader Bank,United States,2025,5,19,United States,United States,Data Engineer
+1490,"Data Engineer, CPSA",Amazon,"Seattle, WA",2025,5,15,United States,Seattle,Data Engineer
+1491,Analytics Engineer,DoorDash,"Seattle, WA",2025,5,17,United States,Seattle,Analytics Engineer
+1492,Data Engineer,Tubi,San Francisco Bay,2025,5,21,United States,San Francisco Bay,Data Engineer
+1493,"Data Engineer, P2 Science, Data, and Insights",Amazon,"Seattle, WA",2025,5,20,United States,Seattle,Data Engineer
+1494,Software Engineer 4 - TV & Web Player Platform,Netflix,"Los Gatos, CA",2025,5,17,United States,Los Gatos,Software Engineer 4
+1495,Junior Data Engineer,Medpace,"Cincinnati, OH",2025,5,17,United States,Cincinnati,Junior Data Engineer
+1496,Software/AI Engineer (New Grad),FurtherAI,"San Francisco, CA",2025,5,15,United States,San Francisco,Software/AI Engineer
+1497,"Software Engineer (L5), Ads Supply",Netflix,United States,2025,5,17,United States,United States,Software Engineer
+1498,Sr. Data & Analytics Engineer,Rivian,"Irvine, CA",2025,5,16,United States,Irvine,Sr. Data & Analytics Engineer
+1499,Data Engineer II,AppFolio,"San Francisco, CA",2025,5,16,United States,San Francisco,Data Engineer II
+1500,Senior Data Engineer,PepsiCo,"Plano, TX",2025,5,17,United States,Plano,Senior Data Engineer
+1501,Data Engineer,SewerAI,"Walnut Creek, CA",2025,5,20,United States,Walnut Creek,Data Engineer
+1502,Data Engineer,Tech Mahindra Business Process Services,"San Jose, CA",2025,5,21,United States,San Jose,Data Engineer
+1503,"Software Engineer, Search Infrastructure",Notion,"New York, NY",2025,5,15,United States,New York,Software Engineer
+1504,Data Engineer II,AppFolio,"Chicago, IL",2025,5,16,United States,Chicago,Data Engineer II
+1505,Data Engineer,PwC India,"Gurugram, Haryana, India",2025,5,15,India,Gurugram,Data Engineer
+1507,"Data Engineer, ITC",Nike,"Karnataka, India",2025,5,20,India,Karnataka,Data Engineer
+1508,ICICI Securities - Data Engineer - Python/SQL/ETL,ICICIDirect,"Navi Mumbai, Maharashtra, India",2025,5,21,India,Navi Mumbai,ICICI Securities
+1512,"Data Engineer, Pricing",Lyft,"Toronto, Ontario, Canada",2025,5,15,Canada,Toronto,Data Engineer
+1514,Data Engineer,ASOS.com,"London, England, United Kingdom",2025,5,20,United Kingdom,London,Data Engineer
+1515,"Data Engineer, Davengers(Data Avengers)",Amazon,"Noida, Uttar Pradesh, India",2025,5,16,India,Noida,Data Engineer
+1516,Junior Data engineer ( Python and SQL ) - 2 to 3 years only,NielsenIQ,"Chennai, Tamil Nadu, India",2025,5,16,India,Chennai,Junior Data engineer
+1517,"Data Engineer , Aladdin Data - Associate",BlackRock,"Mumbai, Maharashtra, India",2025,5,16,India,Mumbai,Data Engineer
+1518,Data Engineer,Indigo,"Toronto, Ontario, Canada",2025,5,20,Canada,Toronto,Data Engineer
+1519,Data Engineer @ CDMX,Cinepolis Corporativo,"Mexico City, Mexico",2025,5,21,Mexico,Mexico City,Data Engineer @ CDMX
+1521,Data Engineer (Medior),The HEINEKEN Company,"Amsterdam, North Holland, Netherlands",2025,5,15,Netherlands,Amsterdam,Data Engineer
+1522,Reporting Data Engineer,EY,"Bengaluru, Karnataka, India",2025,5,16,India,Bengaluru,Reporting Data Engineer
+1523,Data & Software Engineer (L5) — Productivity Metrics and System Insights,Netflix,"Warsaw, Mazowieckie, Poland",2025,5,17,Poland,Warsaw,Data & Software Engineer
+1524,Data Insights and Analytics Engineer,NVIDIA,"Bengaluru, Karnataka, India",2025,5,20,India,Bengaluru,Data Insights and Analytics Engineer
+1526,Data Engineer,ExxonMobil,"Bangkok, Bangkok City, Thailand",2025,5,22,Thailand,Bangkok,Data Engineer
+1527,AWS Data Engineer,KPMG India,"Bengaluru, Karnataka, India",2025,5,16,India,Bengaluru,AWS Data Engineer
+1528,"Data Engineer, Experimentation",Lyft,"Toronto, Ontario, Canada",2025,5,15,Canada,Toronto,Data Engineer
+1529,Data Insights and Analytics Engineer,NVIDIA,"Pune, Maharashtra, India",2025,5,20,India,Pune,Data Insights and Analytics Engineer
+1531,Data Engineer Specialist,Banco Bradesco,"Curitiba, Paraná, Brazil",2025,5,17,Brazil,Curitiba,Data Engineer Specialist
+1532,Junior Data Engineer,Crédit Agricole CIB,"Singapore, Singapore",2025,5,22,Singapore,Singapore,Junior Data Engineer
+1533,Data Engineer - Content Understanding,Spotify,"London, England, United Kingdom",2025,5,17,United Kingdom,London,Data Engineer
+1534,Data Engineer,Dario,"Gurugram, Haryana, India",2025,5,20,India,Gurugram,Data Engineer
+1536,Junior Data Engineer with Python,Volkswagen Digital:Hub,"Valencia, Valencian Community, Spain",2025,5,20,Spain,Valencia,Junior Data Engineer with Python
